@@ -1,7 +1,7 @@
 # [BOLT UBC First Byte Datathon, September 2023](https://www.instagram.com/bolt.ubc/)
 ## Awarded First Place out of 49 Teams
 ### Author: Chi Pham
-### Completed September 2023 with members: Khoa Bui, Finn Pham, Wendy Phung
+### Team members: Khoa Bui, Finn Pham, Wendy Phung
 
 This project utilized a [retail store data set](https://github.com/lanchiphamm/BOLT-SEP-2023/blob/main/dataset.csv) and other related information given by the [case package](https://github.com/lanchiphamm/BOLT-SEP-2023/blob/main/case_package.pdf). The full project is reported using Python in Jupyter Notebook.
 
