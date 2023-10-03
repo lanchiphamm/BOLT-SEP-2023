@@ -1,5 +1,5 @@
 # [BOLT UBC First Byte Datathon, September 2023](https://www.instagram.com/bolt.ubc/)
-## Awarded First Place (1st/49 Teams)
+## Awarded First Place out of 49 Teams
 ### Author: Chi Pham
 ### Completed September 2023 with members: Khoa Bui, Finn Pham, Wendy Phung
 
