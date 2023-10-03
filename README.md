@@ -16,3 +16,4 @@ This project utilized a [retail store data set](https://github.com/lanchiphamm/B
 5. Additional Visual Summarization  
 
 For full project report, see [Data Analysis Report](https://github.com/lanchiphamm/BOLT-SEP-2023/blob/main/analysis_report.ipynb).
+For presentation slide deck, see [Slide Deck](https://github.com/lanchiphamm/BOLT-SEP-2023/blob/main/Team%20%3C21%3E.pdf).
