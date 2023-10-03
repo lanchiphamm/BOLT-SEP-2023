@@ -9,10 +9,10 @@ This project utilized a [retail store data set](https://github.com/lanchiphamm/B
 
 ### Project Outline: 
 
-1. Readinga and Cleaning
-2. Feature Engineering
-3. EDA 
-4. Problem Identification & Solutions 
-5. Additional Visual Summarization
+1. Reading and Cleaning  
+2. Feature Engineering  
+3. EDA   
+4. Problem Identification & Solutions   
+5. Additional Visual Summarization  
 
 For full project report, see [Data Analysis Report](https://github.com/lanchiphamm/BOLT-SEP-2023/blob/main/analysis_report.ipynb).
